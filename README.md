@@ -13,6 +13,11 @@
   ![Profit Table](./images/profit.png)
   
 - Allows the user to quickly generate alternative cost proposals without destroying existing data.
+  - Supports both fine grain and course grain proposal alternatives
+
+  ![Fine Alternatives](./images/alternates.png)
+
+  ![Course Grain Alternatives](./images/exclusion.png)
   
 - Supports local persistence of projects for future recall and modification.
 
