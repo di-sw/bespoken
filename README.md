@@ -8,7 +8,7 @@
   
   ![Trim Table](./images/trim_back_office.png)
 
-- Calculates project expenses, revenue and profit on the fly based on quantities of material, installation and hardware.
+- Calculates project expenses, revenue and profit on the fly based on quantities of material, installation, freight, sales tax and hardware.
   
   ![Profit Table](./images/profit.png)
   
@@ -25,7 +25,7 @@
   
   ![Customer Facing Buildings Table Cost Breakdown](./images/buildings.png)
   
-  ![Cusomter Facing Unit Table Cost Breakdown](./images/unit.png)
+  ![Customer Facing Unit Table Cost Breakdown](./images/unit.png)
 
 - Currently utilizes Google Drive to store proposal documents.
   
