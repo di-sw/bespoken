@@ -1,6 +1,7 @@
 # bespoken - Project Cost Proposal Software
 
 - Reduces manual user data entry by auto populating cost, quantities and other attribute fields through the incorporation of data (digital cost sheets) from multiple material providers.
+- Provides a unit table copy and create feature to allow quick cloning of unit table.  Being able to clone and modify a unit table is much quicker than manually reconstituting the duplicate parts of an existing unit table.
   
   ![Unit Table](./images/unit_back_office.png)
 
